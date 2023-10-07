@@ -54,7 +54,7 @@ source .venv/bin/activate
 ```bash
 pip install -r requirements.txt
 ```
-5. Запустить тесты:
+6. Запустить тесты:
 ```bash
 pytest .
 ```
